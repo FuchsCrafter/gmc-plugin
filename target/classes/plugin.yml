@@ -1,0 +1,37 @@
+name: gmc
+version: '0.5-RC'
+main: de.fuchscrafter.gmc.GmcPlugin
+api-version: '1.19'
+
+commands:
+
+  gmc:
+    description: /gmc
+    usage: /gmc
+  gms:
+    description: /gms
+    usage: /gms
+  gmsp:
+    description: /gmsp
+    usage: /gmsp
+  gma:
+    description: /gma
+    usage: /gma
+
+  nv:
+    description: /nv
+    usage: /nv
+    permission: gmc.nightvision
+  nightvision:
+    description: /nightvision
+    usage: /nightvision
+    permission: gmc.nightvision
+  nnv:
+    description: /nnv
+    usage: /nnv
+    permission: gmc.nightvision
+
+permissions:
+  gmc.nightvision:
+    description: If the player can access the nightvision commands
+    default: true

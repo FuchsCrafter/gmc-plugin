@@ -1,0 +1,5 @@
+de\fuchscrafter\gmc\command\nightvision\DisableNV.class
+de\fuchscrafter\gmc\GmcPlugin.class
+de\fuchscrafter\gmc\command\nightvision\ToggleNV.class
+de\fuchscrafter\gmc\command\Gamemode.class
+de\fuchscrafter\gmc\command\nightvision\EnableNV.class
